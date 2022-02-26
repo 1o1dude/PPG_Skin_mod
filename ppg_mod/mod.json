@@ -1,0 +1,18 @@
+{
+  "Name": "skin mod",
+  "Author": "king Darvel",
+  "Description": "This mod adds cool people",
+  "ModVersion": "1.0",
+  "GameVersion": "1.22.3",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "script.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2766259041"
+}
